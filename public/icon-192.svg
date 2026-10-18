@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="CampusDeals icon">
+  <defs>
+    <linearGradient id="bg" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#0ea5e9" />
+      <stop offset="100%" stop-color="#2563eb" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="120" fill="url(#bg)" />
+  <path d="M144 334V178c0-18 14-32 32-32h48c18 0 32 14 32 32v156h44V178c0-18 14-32 32-32h48c18 0 32 14 32 32v156c0 18-14 32-32 32h-48c-18 0-32-14-32-32V210h-44v156c0 18-14 32-32 32h-48c-18 0-32-14-32-32z" fill="#e0f2fe" opacity="0.96"/>
+  <path d="M162 384h188c18 0 32 14 32 32v18H130v-18c0-18 14-32 32-32z" fill="#f8fafc" opacity="0.95"/>
+  <circle cx="256" cy="126" r="54" fill="#e0f2fe" opacity="0.98"/>
+</svg>
